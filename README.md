@@ -6,12 +6,12 @@
 
 ### 🚧 Current Projects
 <div>
-  <a href="https://github.com/Sdillon215/adventure-pact" target="_blank">Adventure Pact</a>
-  <p>This is a clone of a friend/client's website which will ultimately be used to migrate off of ◼️space to enable better preformance and          functionality.</p>
+  <a href="https://dmvans.com" target="_blank">Dave & Matt Vans</a>
+  <p>Dmvans is my current full time employer. Dmvans is a campervan manufacturing company in Rifle CO. I am the lead (and only) Software Engineer. I develop their customer facing website with complex interactive features such as the van builder as well a back-end admin console for the sales team to create and manage customer van configurations and send them to the production team.</p>
 </div>
 <div>
-  <a href="https://github.com/Sdillon215/dillon-employee-dashboard" target="_blank">Dillon Floral Employee Dashboard</a>
-  <p>Prototype for an application that will eventually replace the archaic command line apps used for purchase orders, sales orders,          inventory management, etc at my family's wholesale floral business.</p>
+  <a href="https://floral-vibez.web.app/" target="_blank">Floral Vibes</a>
+  <p>Floral Vibes is an ecommerce site for retail floral products from Air Plants to customized pots and planters.</p>
 </div>
 
 <hr/>
@@ -28,6 +28,7 @@
 
 ### 🖥️ Tech Stack
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" height="40px" width="40px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" height="40px" width="40px"></img>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40px" width="40px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="40px" width="40px"></img>
