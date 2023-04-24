@@ -7,7 +7,7 @@
 ### 🚧 Current Projects
 <div>
   <a href="https://dmvans.com" target="_blank">Dave & Matt Vans</a>
-  <p>Dmvans is my current full time employer. Dmvans is a campervan manufacturing company in Rifle CO. I am the lead (and only) Software Engineer. I develop their customer facing website with complex interactive features such as the van builder as well a back-end admin console for the sales team to create and manage customer van configurations and send them to the production team.</p>
+  <p>Dmvans is my current full time employer. Dmvans is a campervan manufacturing company in Rifle CO. I develop their customer facing website with complex interactive features such as the van builder as well as a back-end admin console for the sales team to create and manage customer van configurations and send them to the production team.</p>
 </div>
 <div>
   <a href="https://floral-vibez.web.app/" target="_blank">Floral Vibes</a>
