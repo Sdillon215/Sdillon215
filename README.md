@@ -1,17 +1,15 @@
 ## 👋🏻 Hey, I'm Sean!
-<p>I'm a Full-Stack Web Developer. I climb rocks and write code. 🧗‍👨‍💻</P>
+<p>I'm a Full-Stack Web Developer. I write code, climb rocks, and travel. 🧗‍👨‍💻🚙</P>
 <p>Hold on to your butts we're getting Jurassic Park back online. 🦖 </p>
 
 <hr/>
 
 ### 🚧 Current Projects
 <div>
-  <a href="https://dmvans.com" target="_blank">Dave & Matt Vans</a>
-  <p>Dmvans is my current full time employer. Dmvans is a campervan manufacturing company in Rifle CO. I develop their customer facing website with complex interactive features such as the van builder as well as a back-end admin console for the sales team to create and manage customer van configurations and send them to the production team.</p>
-</div>
-<div>
-  <a href="https://floral-vibez.web.app/" target="_blank">Floral Vibes</a>
-  <p>Floral Vibes is an ecommerce site for retail floral products from Air Plants to customized pots and planters.</p>
+  <a href="https://rock-beta-virid.vercel.app/" target="_blank">Rock Beta</a>
+  <p>
+    Rock Beta is a full-stack application serving as a repository of rock climbing information. Users can view and contribute climbing areas and routes including photos and relevant information. The app is built with Nextjs, Typescript, TailwindCSS, Neon PostgreSQL database combined with Hasura cloud enabling GraphQL, Vercel hosting and Blob image storage, and Mapbox. This application is a clone of Mountain Project and is only intended for my personal use as a portfolio piece showcasing my full-stack development skills.
+  </p>
 </div>
 
 <hr/>
@@ -28,8 +26,11 @@
 
 ### 🖥️ Tech Stack
 <div>
-  
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height="40px" width="40px"></img>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40px" width="40px"></img>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40px" width="40px"></img>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" height="40px" width="40px"></img>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40px" width="40px"></img>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40px" width="40px"></img>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" height="80px" width="80px"></img>
