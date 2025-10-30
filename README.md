@@ -1,6 +1,6 @@
 ## 👋🏻 Hey, I'm Sean!
 <p>I'm a Full-Stack Web Developer. I write code, climb rocks, and travel. 🧗‍👨‍💻🚙</P>
-<p>Hold on to your butts we're getting Jurassic Park back online. 🦖 </p>
+
 
 <hr/>
 
