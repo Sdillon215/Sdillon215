@@ -4,7 +4,13 @@
 
 <hr/>
 
-### 🚧 Current Projects
+### 🚧 Recent Projects
+<div>
+  <a href="https://github.com/Sdillon215/floral-erp" target="_blank">Floral ERP</a>
+  <p>
+    Floral ERP is a full-stack mock ERP for wholesale florist operations. Frontend: Next.js 16, React 19, TypeScript, Tailwind CSS. Backend: FastAPI (Python), SQLModel, PostgreSQL. Features: inventory tracking, purchase/sales orders, customer/supplier management, role-based dashboards (Sales, Buyer, Picker/Packer, Admin), JWT authentication, automated stock updates. Monorepo with separate frontend/backend for independent deployment.
+  </p>
+</div>
 <div>
   <a href="https://rock-beta-virid.vercel.app/" target="_blank">Rock Beta</a>
   <p>
